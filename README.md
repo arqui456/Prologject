@@ -36,5 +36,7 @@ Projeto de prolog
 		    ordUnionAll(Z, Sets1, Y, Sets),
 		    ordUnion(X, Y, Union).
         ```    
+
+        teste 
   ## Deadlines:
         
