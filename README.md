@@ -1,5 +1,5 @@
-# Prologject
-Projeto de prolog
+# Wumpos 3D
+Wumpos 3D is a game made in prolog with a new approach to how we manipulate the players movement, say goodbye to thousands of lines of code (:
 
 ## Code style contract :
 
@@ -36,5 +36,6 @@ Projeto de prolog
 		    ordUnionAll(Z, Sets1, Y, Sets),
 		    ordUnion(X, Y, Union).
         ```    
-  ## Deadlines:
+  ## TODO:
+     * Create a texture's folder and move all texture files into it, make the necessary changes in the code 
         
